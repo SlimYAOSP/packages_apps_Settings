@@ -497,7 +497,7 @@
 
     <!-- Doze options -->
     <string name="display_category_doze_options_title">Opciones de pantalla ambiente (doze)</string>
-    <string name="doze_settings_title">Opciones avanzadas de dozºe</string>
+    <string name="doze_settings_title">Opciones avanzadas de doze</string>
     <string name="doze_timeout_title">Tiempo de espera de doze</string>
     <string name="doze_timeout_summary">Tiempo que la pantalla permanece encendida con la notificación</string>
     <string name="doze_trigger_pickup_title">Recoger activación del sensor</string>
