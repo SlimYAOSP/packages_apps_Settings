@@ -497,26 +497,26 @@
 
     <!-- Doze options -->
     <string name="display_category_doze_options_title">Opciones de pantalla ambiente (doze)</string>
-    <string name="doze_settings_title">Opciones avanzadas de dozºe</string>
+    <string name="doze_settings_title">Opciones avanzadas de doze</string>
     <string name="doze_timeout_title">Tiempo de espera de doze</string>
     <string name="doze_timeout_summary">Tiempo que la pantalla permanece encendida con la notificación</string>
     <string name="doze_trigger_pickup_title">Recoger activación del sensor</string>
     <string name="doze_trigger_pickup_summary_on">La visualización ambiental se activará por los eventos del sensor de gestos</string>
-    <string name="doze_trigger_pickup_summary_off">El sensor de gestos de recogida no será utilizado para accionar el mecanismo</string>
+    <string name="doze_trigger_pickup_summary_off">El sensor de gestos no será utilizado para accionar el mecanismo</string>
     <string name="doze_trigger_sigmotion_title">Disparador de movimiento significativo</string>
-    <string name="doze_trigger_sigmotion_summary_on">La visualización ambiental se activará por los eventos del sensor de movimiento</string>
-    <string name="doze_trigger_sigmotion_summary_off">El sensor de movimiento no será utilizado para accionar el mecanismo</string>
+    <string name="doze_trigger_sigmotion_summary_on">La pantalla se activará con eventos del sensor de movimiento</string>
+    <string name="doze_trigger_sigmotion_summary_off">El sensor de movimiento no se utilizará para accionar el mecanismo</string>
     <string name="doze_trigger_notification_title">Disparador de notificaciones</string>
     <string name="doze_trigger_notification_summary_on">La visualización ambiental se activará por las notificaciones</string>
     <string name="doze_trigger_notification_summary_off">Las notificaciones no se utilizarán como activador</string>
     <string name="doze_schedule_title">Periodo de repetición</string>
-    <string name="doze_schedule_summary_on">Intervalos predefinidos de la visualización ambiental  (normalmente [1s, 10s, 30s, 60s, 120s])</string>
+    <string name="doze_schedule_summary_on">Intervalos de visualización ambiental  (normalmente [1s, 10s, 30s, 60s, 120s])</string>
     <string name="doze_schedule_summary_off">Activar la visualización ambiental solo una vez por evento o notificación</string>
     <string name="doze_brightness_title">Nivel de brillo de la visualización ambiental</string>
-    <string name="doze_brightness_summary">Nivel de brillo de la pantalla de visualización ambiental (% del brillo máximo permitido)</string>
+    <string name="doze_brightness_summary">Brillo de pantalla en visualización ambiental (% del brillo máximo permitido)</string>
     <string name="doze_wakeup_doubletap_title">Doble toque para despertar con doze</string>
-    <string name="doze_wakeup_doubletap_summary_on">Requiere un doble toque para despertar el dispositivo en la pantalla de doze</string>
-    <string name="doze_wakeup_doubletap_summary_off">Requiere sólo un toque para despertar el dispositivo en la pantalla de doze (predeterminado)</string>
+    <string name="doze_wakeup_doubletap_summary_on">Requiere un doble toque para despertar el dispositivo</string>
+    <string name="doze_wakeup_doubletap_summary_off">Requiere sólo un toque para despertar el dispositivo (predeterminado)</string>
 
     <!-- Skip tracks on longpress volume buttons -->
     <string name="volbtn_music_controls_title">Control de música con botones de volumen</string>

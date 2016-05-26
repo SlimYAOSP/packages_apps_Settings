@@ -2904,4 +2904,21 @@
     <string name="color_temperature" msgid="2070126836910615605">"Temperatura de colores fríos"</string>
     <string name="color_temperature_desc" msgid="4793729830226404052">"Utilizar colores de pantalla más fríos"</string>
     <string name="color_temperature_toast" msgid="4974218172133854827">"Para aplicar el cambio de color, apaga la pantalla"</string>
+    <string name="sim_enabler_summary">" es %1$s"</string>
+    <string name="sim_enabled">habilitada</string>
+    <string name="sim_disabled">deshabilitada</string>
+    <string name="sim_missing">no se encuentra o error</string>
+    <string name="sim_enabler_need_enable_sim">Activando la SIM, ¿está seguro?</string>
+    <string name="sim_enabler_need_disable_sim">Desactivando la SIM, ¿está seguro?</string>
+    <string name="sim_enabler_will_disable_sim_title">Atención</string>
+    <string name="sim_enabler_need_switch_data_service">Se deshabilitará y se cambiará a la SIM<xliff:g id="slotid">%1$s</xliff:g> para servicios de datos, ¿está seguro?</string>
+    <string name="sim_enabler_airplane_on">ERROR, ¡el modo avión está activado!</string>
+    <string name="sim_enabler_in_call">ERROR, ¡en una llamada!</string>
+    <string name="sim_enabler_both_inactive">"Error, no se pueden deshabilitar las sims"</string>
+    <string name="sim_enabler_enabling">Activando...</string>
+    <string name="sim_enabler_disabling">Desactivando...</string>
+    <string name="sub_activate_success">Activada satisfactoriamente.</string>
+    <string name="sub_activate_failed">Falló la activación.</string>
+    <string name="sub_deactivate_success">Desactivada satisfactoriamente.</string>
+    <string name="sub_deactivate_failed">Falló la desactivación.</string>
 </resources>
